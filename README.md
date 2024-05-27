@@ -3,7 +3,7 @@
 
 
 ## 프로젝트 소개
-입력된 강아지의 정보를 기반으로 보유 중인 사료와 간식 데이터들 중 사용자의 요구사항에 가장 적합한 제품을 주는 서비스입니다.
+입력된 강아지의 정보를 기반으로 보유 중인 사료와 간식 데이터들 중 사용자의 요구사항에 가장 적합한 제품을 추천해주는 서비스입니다.
 <br>
 
 🚩 프로젝트 개발기간 : 2024.05.23 ~
@@ -70,7 +70,24 @@
     c. 비회원
       i) 비회원은 관리자 권한이 없다.
 
+## 시작가이드
+### 1. 요구사항
+#### Chrome 환경 권장
+ 1. 프로젝트 cloning
+ 2. IDE로 프로젝트 실행
+ 3. 접속 경로 미정
 
+#### IDE :  IntelliJ
+#### Java : JDK 17
+#### Depengencies
+ 1. Spring Web
+ 2. Spring Boot Dev Tools
+ 3. MyBatis
+ 4. MySQLDriver
+ 5. Spring security
+    추가예정
+
+<br>
 
 ## 사용 기술
 ![image](https://github.com/Dogpamines/DogSeek/assets/155221216/320fc317-22c5-4245-838a-134807197756)
